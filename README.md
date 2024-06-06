@@ -1,7 +1,6 @@
 ### Hi there 🙋
 <br>
 <br>
-<br>
 My name is Lucas Rodrigues, I'm a front-end developer and I'm starting to learn JavaScript and React.
 <br>
 <br>
