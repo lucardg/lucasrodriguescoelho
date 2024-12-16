@@ -1,7 +1,7 @@
 ### Hi there 🙋
 <br>
 <br>
-My name is Lucas Rodrigues Coelho, I'm a front-end developer and I'm starting to learn JavaScript and React.
+My name is Lucas, I'm a front-end developer and I'm starting to learn JavaScript and React.
 <br>
 <br>
 <br>
